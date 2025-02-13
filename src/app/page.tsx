@@ -1,4 +1,4 @@
-import DriveClone from "../components/drive-clone"
+import DriveClone from "../components/DriveClone"
 
 export default function Home() {
   return (
