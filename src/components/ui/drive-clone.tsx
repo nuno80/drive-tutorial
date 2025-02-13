@@ -1,7 +1,7 @@
 "use client"
 import { useState } from "react"
 import { ChevronRight, Folder, File, RefreshCw } from "lucide-react"
-import { Button } from "@/components/ui/button"
+import { Button } from "./button"
 
 // Mock data structure
 const mockData = {
